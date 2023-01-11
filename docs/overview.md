@@ -34,4 +34,4 @@ We acknowledge the investment, risk and research that went into their developmen
 
 ## Let's go!
 
-Enough overview, there's so much more to do with TanStack Router. Hit that next button and let's get started!
+Enough overview, there's so much more to do with TanStack Router. Hit that installation button below and let's get started!
